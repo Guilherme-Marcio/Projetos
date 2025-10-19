@@ -67,7 +67,7 @@ namespace Calculadora
                 Console.WriteLine("Digite - para Subtrair");
                 Console.WriteLine("Digite * para Multiplicar");
                 Console.WriteLine("Digite / para Dividir");
-                Console.WriteLine("Digite p para potenciação");
+                Console.WriteLine("Digite ^ para potenciação");
                 operacao = char.Parse(Console.ReadLine());
                 double resultado = 0;
 
@@ -89,7 +89,7 @@ namespace Calculadora
                         resultado = Divisao(num1, num2);
                         break;
 
-                    case 'p':
+                    case '^':
                         resultado = Potencia(num1, num2);
                         break;
 
