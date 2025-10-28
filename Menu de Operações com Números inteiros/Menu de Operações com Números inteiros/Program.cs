@@ -110,16 +110,6 @@ namespace Menu_de_Operações_com_Números_inteiros
                     break;
             }
 
-
-
-
-
-
-
-
-
-
-
-            }
+        }
     }
 }
