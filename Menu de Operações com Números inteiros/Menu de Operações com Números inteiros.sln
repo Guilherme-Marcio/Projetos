@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36414.22 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Menu de Operações com Números inteiros", "Menu de Operações com Números inteiros\Menu de Operações com Números inteiros.csproj", "{0CD46EA5-DE92-4741-AB5B-6F9AE344CA02}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0CD46EA5-DE92-4741-AB5B-6F9AE344CA02}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0CD46EA5-DE92-4741-AB5B-6F9AE344CA02}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0CD46EA5-DE92-4741-AB5B-6F9AE344CA02}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0CD46EA5-DE92-4741-AB5B-6F9AE344CA02}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {385A9D10-CCA6-426F-9E97-639300486E5B}
+	EndGlobalSection
+EndGlobal
