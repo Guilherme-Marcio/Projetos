@@ -30,7 +30,6 @@ namespace Conversor_de_Temperatura
         static void Main(string[] args)
         {
             double temp;
-            string op = "SIM";
 
             Console.WriteLine("------------- Conversor de Temperatura -------------");
             Console.WriteLine("Escolha seu método de conversão:");
