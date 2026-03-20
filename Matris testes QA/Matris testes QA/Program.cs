@@ -41,6 +41,7 @@ namespace MatrizTestesQA
             {
                 total += teste;
             }
+
             return total;
         }
 
